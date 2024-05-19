@@ -282,6 +282,7 @@ p {
 .service {
   display: flex;
   align-items: flex-start;
+  gap: 20px;
 }
 
 .career {
